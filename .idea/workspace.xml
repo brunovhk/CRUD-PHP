@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0637126e-f6ca-46a5-94bf-4447d462bbb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1gnZbRcMVacgufHPY2exTRnmYLQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0637126e-f6ca-46a5-94bf-4447d462bbb3" name="Default Changelist" comment="" />
+      <created>1598752387402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598752387402</updated>
+      <workItem from="1598752391228" duration="17615000" />
+      <workItem from="1598802219115" duration="8534000" />
+      <workItem from="1598811032536" duration="18876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="27" key="#PHP" timestamp="1598752653262">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="421" y="27" key="#PHP/62.0.1304.768@62.0.1304.768" timestamp="1598752653262" />
+    <state x="306" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598753635827">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="306" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1304.768@62.0.1304.768" timestamp="1598753635827" />
+    <state width="862" height="192" key="GridCell.Tab.0.bottom" timestamp="1598762343362">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="862" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1598762343362" />
+    <state width="862" height="192" key="GridCell.Tab.0.center" timestamp="1598762343362">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="862" height="192" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1598762343362" />
+    <state width="862" height="192" key="GridCell.Tab.0.left" timestamp="1598762343362">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="862" height="192" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1598762343362" />
+    <state width="862" height="192" key="GridCell.Tab.0.right" timestamp="1598762343362">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="862" height="192" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1598762343362" />
+    <state x="548" y="307" key="NewPhpFileDialog" timestamp="1598753487816">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="548" y="307" key="NewPhpFileDialog/62.0.1304.768@62.0.1304.768" timestamp="1598753487816" />
+    <state x="215" y="29" key="SettingsEditor" timestamp="1598760934125">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="215" y="29" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1598760934125" />
+    <state x="444" y="189" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1598812447983">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="444" y="189" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/62.0.1304.768@62.0.1304.768" timestamp="1598812447983" />
+    <state x="370" y="172" key="run.anything.popup" timestamp="1598805605110">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="370" y="172" key="run.anything.popup/62.0.1304.768@62.0.1304.768" timestamp="1598805605110" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598815425805">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1598815425805" />
+  </component>
+</project>
